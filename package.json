@@ -1,0 +1,16 @@
+{
+  "name": "back-end-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MiddlewareAuthenticate.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
